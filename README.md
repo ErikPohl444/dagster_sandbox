@@ -1,3 +1,7 @@
+![Under Construction](istockphoto-856987802-612x612.jpg)
+This repo is under construction and in its early phases.
+I'm not using cursor or copilot, and am learning Dagster the slow way like I had to learn Airflow.
+
 # dagster_sandbox
 
 I've used airflow.  Time to experiment with dagster for comparison
